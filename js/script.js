@@ -1,4 +1,5 @@
-
+/*
 $('.carousel').carousel({
-    interval: 2000
+    interval: 500
   });
+  $('.carousel').carousel('cycle');
