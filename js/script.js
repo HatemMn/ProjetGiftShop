@@ -1,5 +1,4 @@
-/*
 $('.carousel').carousel({
     interval: 500
   });
-  $('.carousel').carousel('cycle');
+$('.carousel').carousel('cycle');

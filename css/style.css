@@ -1,6 +1,14 @@
 .navbar {
   background-color: #06c76e75;
 }
+.logo {
+  height: 2em;
+  width: auto;
+}
+.navi {
+  font-weight: 600;
+  color: white;
+}
 .carousel-item {
     height: 100vh;
     min-height: 300px;
