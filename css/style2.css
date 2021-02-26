@@ -1,0 +1,17 @@
+.carta {
+    height: 15em;
+    width: auto;
+  }
+body {    
+    background-image: url('../img/leaves.png');
+}
+.whiteback {
+    background-color: white;
+}
+.must {
+    height: 400px;
+    width: 400px;
+}
+.cent {
+    text-align: center;
+}

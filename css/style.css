@@ -3,12 +3,7 @@
   width: auto;
 }
 
-body {
-  background-image: url('../img/background.png');
-}
-.whiteback {
-  background-color: white;
-}
+
 
 .navbar {
   background-color: #06c76e75;

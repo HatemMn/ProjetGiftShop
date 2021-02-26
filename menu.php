@@ -14,7 +14,7 @@
                 <a class="nav-link  navi" style="color: white;" href="shop.php">Shop</a>
                 </li>
                 <li class="nav-item mx-2">
-                <a class="nav-link  navi" style="color: white;" href="#">MyteryBox</a>
+                <a class="nav-link  navi" style="color: white;" href="myterybox.php">MyteryBox</a>
                 </li>
                 <li class="nav-item mx-2">
                 <a class="nav-link  navi" style="color: white;" href="#">Services</a>
