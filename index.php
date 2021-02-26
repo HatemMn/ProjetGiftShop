@@ -3,7 +3,7 @@
     <head>
 
         <meta charset="utf-8">
-        <title>Our page</title>
+        <title>Gifty</title>
         <link href="css/style.css" rel="stylesheet" type="text/css">
 
         <link href="css/bootstrap.css" rel="stylesheet" type="text/css">
